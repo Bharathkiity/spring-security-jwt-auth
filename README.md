@@ -1,5 +1,8 @@
 # Spring Security – JWT Authentication (Stateless)
 
+<img width="1560" height="760" alt="image" src="https://github.com/user-attachments/assets/8f21a264-638d-4291-8e77-93134fb0c21e" />
+
+
 ## 📖 Overview
 This project demonstrates **stateless JWT-based authentication** using **Spring Boot 3.x** and **Spring Security 6.x**, implemented according to **real-time industry practices (2025–2026)**.
 
